@@ -24,7 +24,6 @@ Berikut adalah fungsi yang mengubah suhu dari derajat Kelvin menjadi derajat Fah
 ![img1](image/1.png)
 
 Ketika kode di atas dijalankan, menghasilkan hasil sebagai berikut -
-
 ![img2](image/11.png)
 
 
@@ -187,4 +186,7 @@ except Networkerror,e:
    print e.args
 ```
 
+
+### Penutup
+Itulah hasil dari program Exception yang telah saya kerjakan, jika ada kesalahan kata dalam pengetikan, Saya memohon maaf yang sebesar besarnya. Sekian dari repository ini saya buat. Saya ucapkan, Terimakasih...
 # *HAVE A NICE DAY :)*
